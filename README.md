@@ -97,22 +97,6 @@ Add screenshot here:
 ![FULL OUTER JOIN](screenshots/full_outer_join_result.png)
 ```
 
----
-
-# Key Learnings
-
-Through this project, I learned:
-
-* How SQL JOINs work
-* Differences between JOIN types
-* How to combine relational tables
-* Query writing in BigQuery
-* Data analysis using SQL
-
----
-
-# Author
-
 Qurat-ul-ain Khalid
 
 GitHub:
